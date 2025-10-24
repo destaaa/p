@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head >
+    <style>
+       body {
+  background-color: #add8e6; /* soft blue */
+} 
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>for you</title>
+</head>
+
+<body>
+ <h1> HAIIII BROWWW !</h1>
+
+ <h3>happy sweet seventen mantan akuuuu, wkawkawkaaa</h3>
+    <p>makasih ya sudah mau bertahan sejauh ini, i'm proud of you..</p>
+    
+    <p>di umur yang sudah semakin tua ini, semoga kamu diberikan kelancaran dalam melangkah, diberikan kebahagiaan, diberikan rezeki, diberikan kesehatan, dan diberikan yang terbaik untuk kamuuu :).</p>
+   
+    <p>udah tahun ke - 4 aku nemenin kamu ulang tahunn, semoga tahun selanjutnya masih bisa nemenin kamu ulang tahun lagiii....</p>
+    
+    <p>kurang - kurangin ya tengilnya, wkawkawkaaa.......
+        kamu nek tengil ngeselinn abieezzzzz soalee, sampe garai akuuu keselll bangetttt!!! </p>
+    
+    <p>aku ga nyangka tau kita bisa deket kaya sekarang, sampe pacaran pula ( meski udah jadi mantan, wkwkw ).
+        dulu tak pikir kita ga bakal selama ini taukkkk.... tak pikir kita ke gur sampek bulan tok, ga sampek tahun..</p>
+    
+    <p><b>TAPIIII !!</b> pas ngerti kamu rasan - rasan wedokan apameneh rasan - rasan e seng kek iwwhhh,,,, aku pernah berfikir nek kita ke mending <b>UUDAHANN AE ( ASINGGG ), tapiii bak e rasido :)), </b> hmzzz..</p>
+    
+    <p>intinya di sini <b>HAPPY BIRTHDAY YAWWW </b> semoga suka sama kadonyaaaaaa :3</p>
+
+    <p>  - destaaaaaaaaa - </p>
+
+</body>
+
+
+</html>
